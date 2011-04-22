@@ -22,6 +22,5 @@
 #pragma mark Entity Creation
 +(NSEntityDescription*) entity;
 -(NSEntityDescription*) entity;
-+(NSString*) entityName;
 
 @end
